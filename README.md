@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Matt</h1>
-<h3 align="center">A passionate full-stack developer from Berlin</h3>
+<h3 align="center">A passionate full-stack developer based in Berlin</h3>
 
 <p align="center">
 - 🔭 I’m currently working with: **TypeScript, React, Vue, Nuxt, GraphQL**
