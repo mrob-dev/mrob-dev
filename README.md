@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer based in Berlin</h3>
 
 <p align="center">
-- 🔭 I’m currently working with: **TypeScript, React, Vue, Nuxt, GraphQL**
+- 🔭 I’m currently working with: **JavaScript, React, Vue, Nuxt, GraphQL**
 </p>
 <p align="center">
 - 🌱 I’m currently learning: **Cloud Management, Web3, blockchain technology, decentralization and token-based economics**
