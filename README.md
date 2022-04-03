@@ -2,13 +2,13 @@
 <h3 align="center">A passionate full-stack developer based in Berlin</h3>
 
 <p align="center">
-- 🔭 I’m currently working with: **JavaScript, React, Vue, Nuxt, GraphQL**
+- 🔭 I’m currently working with: **JavaScript, React, Vue, Node, Nuxt, Gatsby, GraphQL**
 </p>
 <p align="center">
 - 🌱 I’m currently learning: **Cloud Management, Web3, blockchain technology, decentralization and token-based economics**
 </p>
 <p align="center">
-- ⚡ Fun fact: **I've also worked as a historian in Berlin for more than 15 years.**
+- ⚡ Fun fact: **I also work as a historian in Berlin, Germany specialising in 20th century history**
 </p>
   
 <h3 align="center">Languages and Tools:</h3>
