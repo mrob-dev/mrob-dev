@@ -5,9 +5,6 @@
 - 🔭 I’m currently working with: **JavaScript, React, Vue, Node, Nuxt, Gatsby, GraphQL**
 </p>
 <p align="center">
-- 🌱 I’m currently learning: **Cloud Management, Web3, blockchain technology, decentralization and token-based economics**
-</p>
-<p align="center">
 - ⚡ Fun fact: **I also work as a historian in Berlin, Germany specialising in 20th century history**
 </p>
   
